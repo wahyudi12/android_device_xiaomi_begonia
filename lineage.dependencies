@@ -18,30 +18,6 @@
    "branch": "github"
  },
  {
-   "repository": "TTTT555/vendor_ANXCamera",
-   "target_path": "vendor/ANXCamera",
-   "branch": "10",   
-   "branch": "github"
- },
- {
-   "repository": "TTTT555/vendor_burial8",
-   "target_path": "vendor/burial8",
-   "branch": "master",   
-   "branch": "github"
- },
- {
-   "repository": "TTTT555/viper4androidFX",
-   "target_path": "vendor/viper4androidFX",
-   "branch": "master",   
-   "branch": "github"
- },
- {
-   "repository": "TTTT555/dirac",
-   "target_path": "vendor/dirac",
-   "branch": "master",   
-   "branch": "github"
- },
- {
    "repository": "TTTT555/vendor_xiaomi_begonia",
    "target_path": "vendor/xiaomi/begonia",
    "branch": "6.25",
