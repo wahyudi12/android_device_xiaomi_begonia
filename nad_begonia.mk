@@ -24,6 +24,7 @@ TARGET_INCLUDE_WIFI_EXT := true
 TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
 $(call inherit-product, vendor/nusantara/config/common_full_phone.mk)
+USE_PIXEL_CHARGING := true
 
 # Screen density
 PRODUCT_AAPT_CONFIG := normal
