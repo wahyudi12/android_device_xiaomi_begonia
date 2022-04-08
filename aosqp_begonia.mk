@@ -22,6 +22,8 @@ TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
 $(call inherit-product, vendor/aosqp/config/common_full_phone.mk)
 USE_PIXEL_CHARGING := true
+TARGET_GAPPS_ARCH := arm64
+WITH_GAPPS := true
 
 # Screen density
 PRODUCT_AAPT_CONFIG := normal
