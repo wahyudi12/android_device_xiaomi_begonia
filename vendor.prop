@@ -170,6 +170,9 @@ ro.vendor.smvr.p2batch.vga=16
 # NFC
 ro.hardware.nfc_nci=nqx.default
 
+# Priv-app permissions
+ro.control_privapp_permissions=log
+
 # Radio
 telephony.lteOnCdmaDevice=1
 persist.radio.multisim.config=dsds
