@@ -20,7 +20,7 @@ $(call inherit-product, device/xiaomi/begonia/device.mk)
 # Inherit some common PE stuff.
 TARGET_BOOT_ANIMATION_RES := 1080
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
-$(call inherit-product, vendor/aosqp/config/common_full_phone.mk)
+$(call inherit-product, vendor/qassa/config/common_full_phone.mk)
 USE_PIXEL_CHARGING := true
 TARGET_GAPPS_ARCH := arm64
 WITH_GAPPS := true
@@ -35,7 +35,7 @@ TARGET_SCREEN_WIDTH := 1080
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := begonia
-PRODUCT_NAME := aosqp_begonia
+PRODUCT_NAME := qassa_begonia
 PRODUCT_BRAND := Redmi
 PRODUCT_MANUFACTURER := Xiaomi
 

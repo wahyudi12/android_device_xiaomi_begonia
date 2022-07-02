@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosqp_begonia.mk
+    $(LOCAL_DIR)/qassa_begonia.mk
